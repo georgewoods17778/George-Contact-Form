@@ -2,11 +2,11 @@
 
 return [
     'subject' => [
-        'prefix' => '[Contact Form]'
+        'prefix' => '[George Form]'
     ],
     'emails' => [
-        'to'   => '',
-        'from' => ''
+        'to'   => '<todo updated on server>',
+        'from' => '<todo update on server>'
     ],
     'messages' => [
         'error'   => 'There was an error sending your message, please try again later.',
